@@ -1,0 +1,8 @@
+{
+  "client_id": "https://cdn.jsdelivr.net/gh/perfilievx/checkscan-zen-client@main/checkscan-zen-client.json",
+  "client_name": "CheckScan",
+  "redirect_uris": ["http://127.0.0.1/callback", "http://localhost/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
